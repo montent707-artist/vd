@@ -1,0 +1,53 @@
+{
+  "canvas_size": {
+    "width_inches": 13.333333333333334,
+    "height_inches": 7.5,
+    "width_emu": 12192000,
+    "height_emu": 6858000
+  },
+  "total_slides": 16,
+  "fonts_used": {
+    "RecipekoreaOTF Medium": 3,
+    "+mn-lt": 11,
+    "Gwangyang Touching": 12,
+    "Myriad Pro Light": 2,
+    "GamtanRoad Dotum Regular": 14,
+    "GamtanRoad Dotum Bold": 148,
+    "GamtanRoad Gamtan": 3,
+    "Zapfino": 1
+  },
+  "media_count": 31,
+  "media_files": [
+    "ppt/media/image7.png",
+    "ppt/media/image8.png",
+    "ppt/media/image9.png",
+    "ppt/media/image10.png",
+    "ppt/media/image11.png",
+    "ppt/media/image12.png",
+    "ppt/media/image13.png",
+    "ppt/media/image14.png",
+    "ppt/media/image15.png",
+    "ppt/media/image16.png",
+    "ppt/media/image17.png",
+    "ppt/media/image18.png",
+    "ppt/media/image20.png",
+    "ppt/media/image21.png",
+    "ppt/media/image22.png",
+    "ppt/media/image24.png",
+    "ppt/media/image25.jpeg",
+    "ppt/media/image26.jpeg",
+    "ppt/media/image27.png",
+    "ppt/media/image5.png",
+    "ppt/media/image28.png",
+    "ppt/media/image29.png",
+    "ppt/media/image30.png",
+    "ppt/media/image4.emf",
+    "ppt/media/image3.jpeg",
+    "ppt/media/image2.png",
+    "ppt/media/image1.png",
+    "ppt/media/image6.png",
+    "ppt/media/image19.png",
+    "ppt/media/image23.png",
+    "ppt/media/media1.mp4"
+  ]
+}

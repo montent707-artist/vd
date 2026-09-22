@@ -1,0 +1,29 @@
+[
+  {
+    "path": "result\\[001]_제1차_100퍼센트_완전복제본.pptx",
+    "size_mb": 164.62,
+    "slides": 16,
+    "expected_slides": 16,
+    "total_shapes": 128,
+    "total_chars": 2451,
+    "status": "PASS"
+  },
+  {
+    "path": "result\\[002]_AI_에이전트_캡스톤디자인_v2.0_Executive압축본(12장).pptx",
+    "size_mb": 137.79,
+    "slides": 12,
+    "expected_slides": 12,
+    "total_shapes": 96,
+    "total_chars": 3291,
+    "status": "PASS"
+  },
+  {
+    "path": "result\\[003]_AI_에이전트_캡스톤디자인_v3.0_최종마스터피스(16장).pptx",
+    "size_mb": 162.79,
+    "slides": 16,
+    "expected_slides": 16,
+    "total_shapes": 128,
+    "total_chars": 3541,
+    "status": "PASS"
+  }
+]
