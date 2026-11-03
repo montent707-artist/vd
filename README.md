@@ -18,6 +18,7 @@
 | **`vd22`** | **Google Flow & Vids AI Video Pipeline** | **5단계 기획 & 5대 제작 대본 자동화**<br>• 기획 아이디어 ➔ 캐릭터 ➔ 시트 ➔ 시놉시스 ➔ 5대 대본 일괄 생성<br>• 이미지, 비디오, 나레이션, 자막, 효과음 5대 트랙 분리 설계<br>• Google Flow, Google Vids, Vrew, CapCut 완벽 연동 | [📘 가이드](./vd22_google_vids) |
 | **`vd23` / `vd2023`** | **Google Opal Automation App Prompt Crafter** | **구글 오팔(Google Opal) 좌측 창 전용 메타 프롬프트 빌더**<br>• C-I-P-O-E 5대 아키텍처 기반 다단계 워크플로우 그래프 자동 생성<br>• 린 캔버스, PSST 사업계획서, 경쟁사 배틀카드 등 10대 창업앱 내장<br>• 강의 시연용 Streamlit 인터랙티브 웹 대시보드 & 원클릭 배치 제공 | [📘 가이드](./vd23_google_opal) |
 | **`vd26`** | **PPT Style Cloner Pro** | **4대 마스터 자산 추출 & 2단계 무결 복제 및 1:1 정밀 검증**<br>• Business DNA, DESIGN.md(8요소), STYLE.md, TEMPLATE.md 추출<br>• 원문 토씨 100% 일치 제1차 무결 복제(Gen-1 Replica)<br>• 1:1 QA Gap Analysis 및 제2차 고도화 완성 슬라이드(Gen-2 Master) | [📘 가이드](./vd26_ppt_clone_skill/README.md) |
+| **`vd27`** | **Slide Style Cloner v4.0** | **실제 PPTX 분석 기반 2단계 외과수술형 복제 파이프라인**<br>• 원본 테마 색·글꼴·반복 머리글·글자 슬롯을 읽어 4대 설계도서 자동 작성<br>• 바이트 단위 1차 복제(SHA-256 확인) + 로고·링크·작성자·대용량 이미지 진단<br>• 서식 유지 문구 교체로 16장 완결본 + 12장 Executive 압축본 동시 생성 | [📘 가이드](./vd27_slide_style_cloner_v4/README.md) |
 
 ---
 
@@ -68,6 +69,12 @@ cd vd
   cd vd26_ppt_clone_skill
   python scripts/replicate_v1_exact.py
   python scripts/replicate_v2_enhanced.py
+  ```
+* **`vd27` 슬라이드 스타일 클로너 v4.0 스킬**:
+  ```bash
+  cd vd27_slide_style_cloner_v4
+  uv pip install -r scripts/requirements.txt
+  python scripts/run_cloner.py --input "원본.pptx" --output "result_v1"
   ```
 
 ---
