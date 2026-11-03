@@ -1,0 +1,4554 @@
+[
+  {
+    "slide_number": 1,
+    "shape_count": 8,
+    "shapes": [
+      {
+        "shape_id": 14337,
+        "name": "그림 15",
+        "shape_type": "PICTURE (13)",
+        "left": 0,
+        "top": 0,
+        "width": 12192000,
+        "height": 6873875,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 2936875,
+        "top": 2101850,
+        "width": 8069263,
+        "height": 2655888,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": "RecipekoreaOTF Medium",
+                "font_size": 66.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "RecipekoreaOTF Medium",
+                "font_size": 66.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": "RecipekoreaOTF Medium",
+                "font_size": 96.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 14339,
+        "name": "부제목 2",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 3322638,
+        "top": 4757738,
+        "width": 7094537,
+        "height": 650875,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "겸임교수  이돈각",
+            "level": 0,
+            "runs": [
+              {
+                "text": "겸임교수",
+                "font_name": null,
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "  ",
+                "font_name": null,
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "이돈각",
+                "font_name": null,
+                "font_size": 36.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "겸임교수  이돈각"
+      },
+      {
+        "shape_id": 14340,
+        "name": "그림 4",
+        "shape_type": "PICTURE (13)",
+        "left": 415925,
+        "top": 357188,
+        "width": 874713,
+        "height": 849312,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 10,
+        "name": "TextBox 9",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1290638,
+        "top": 565150,
+        "width": 2425664,
+        "height": 369332,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "전주기전대학 산림치유과",
+            "level": 0,
+            "runs": [
+              {
+                "text": "전주기전대학",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 산림치유과",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "전주기전대학 산림치유과"
+      },
+      {
+        "shape_id": 11,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 2936192,
+        "top": 1207009,
+        "width": 8069942,
+        "height": 1142562,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "CAPSTONE DESIGN",
+            "level": 0,
+            "runs": [
+              {
+                "text": "CAPSTONE ",
+                "font_name": "Gwangyang Touching",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "DESIGN",
+                "font_name": "Gwangyang Touching",
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "CAPSTONE DESIGN"
+      },
+      {
+        "shape_id": 14343,
+        "name": "TextBox 2",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 1749425,
+        "top": 1273175,
+        "width": 1185863,
+        "height": 1143000,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "2026",
+            "level": 0,
+            "runs": [
+              {
+                "text": "2",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "026",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "0919",
+            "level": 0,
+            "runs": [
+              {
+                "text": "0919",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "2026\n0919"
+      },
+      {
+        "shape_id": 14344,
+        "name": "TextBox 2",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1555750,
+        "top": 2503488,
+        "width": 1573213,
+        "height": 307975,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "12:20~14:45",
+            "level": 0,
+            "runs": [
+              {
+                "text": "1",
+                "font_name": "Myriad Pro Light",
+                "font_size": 14.0,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "2:20~14:45",
+                "font_name": "Myriad Pro Light",
+                "font_size": 14.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "12:20~14:45"
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "겸임교수  이돈각",
+      "전주기전대학 산림치유과",
+      "CAPSTONE DESIGN",
+      "2026",
+      "0919",
+      "12:20~14:45"
+    ]
+  },
+  {
+    "slide_number": 2,
+    "shape_count": 6,
+    "shapes": [
+      {
+        "shape_id": 8,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 10,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 11,
+        "name": "팔각형[O] 10",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 12,
+        "name": "직선 연결선[R] 11",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 17413,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 727075,
+        "top": 1231900,
+        "width": 8589963,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "- 산림자원상품캡스톤디자인 강의 개요",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "산림자원상품캡스톤디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 강의 개요",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "- 산림자원상품캡스톤디자인 강의 개요"
+      },
+      {
+        "shape_id": 17414,
+        "name": "그룹 1",
+        "shape_type": "GROUP (6)",
+        "left": 1455738,
+        "top": 2098675,
+        "width": 9753600,
+        "height": 4308475,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "3강",
+      "- 산림자원상품캡스톤디자인 강의 개요"
+    ]
+  },
+  {
+    "slide_number": 3,
+    "shape_count": 7,
+    "shapes": [
+      {
+        "shape_id": 8,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 10,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 11,
+        "name": "팔각형[O] 10",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 12,
+        "name": "직선 연결선[R] 11",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 18437,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 0,
+        "top": 955675,
+        "width": 8185150,
+        "height": 820738,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "2026 산림자원상품캡스톤디자인 강의 세부일정",
+            "level": 0,
+            "runs": [
+              {
+                "text": "2026 ",
+                "font_name": "GamtanRoad Gamtan",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "산림자원상품캡스톤디자인",
+                "font_name": "GamtanRoad Gamtan",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 강의 세부일정",
+                "font_name": "GamtanRoad Gamtan",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "2026 산림자원상품캡스톤디자인 강의 세부일정"
+      },
+      {
+        "shape_id": 3,
+        "name": "표 2",
+        "shape_type": "TABLE (19)",
+        "left": 854075,
+        "top": 1471613,
+        "width": 5153025,
+        "height": 5195888,
+        "has_text_frame": false,
+        "has_table": true,
+        "table_data": [
+          [
+            "주",
+            "날짜",
+            "수업방식",
+            "수업내용"
+          ],
+          [
+            "1",
+            "9월 5일",
+            "대면",
+            "오리엔테이션"
+          ],
+          [
+            "2",
+            "9월 12일",
+            "대면",
+            "현장학습 I\n- ‘장수 한우랑 사과랑 축제’ 현장학습\n- 캡스톤디자인 상품 자료조사(5개 이상)"
+          ],
+          [
+            "3",
+            "9월 19일",
+            "대면",
+            "1. 현장학습 결과보고\n-  ‘장수 한우랑 사과랑 축제’ 자료조사 발표\n2. 캡스톤디자인이란?\n- 캡스톤디자인의 개념 및 사례 검토"
+          ],
+          [
+            "4",
+            "9월 26일",
+            "비대면",
+            "산림자원 현황 및 상품화 동향\n- 산림치유자원 검토\n- 국내외 산림자원을 활용한 우수사례"
+          ],
+          [
+            "5",
+            "10월 3일",
+            "비대면",
+            "1. 창의적 아이디어 발굴\n- 아이디어 도출 및 선별\n2. 시장조사 및 분석 방법\n- 시장조사 방법론\n- SWOT 분석 실습"
+          ],
+          [
+            "6",
+            "10월 10일",
+            "대면",
+            "1. 팀구성\n- 팀구성 및 역할, 팀명 정하기\n팀별 아이디어 도출(브레인스토밍)\n마인드맵 작성 및 공유\n2. 캡스톤디자인 기획 \n- 아이디어 확장(브레인라이팅)\n팀별 아이디어 발표"
+          ],
+          [
+            "7",
+            "10월 17일",
+            "중간고사",
+            "중간고사"
+          ]
+        ]
+      },
+      {
+        "shape_id": 4,
+        "name": "표 3",
+        "shape_type": "TABLE (19)",
+        "left": 6213475,
+        "top": 1471613,
+        "width": 5240338,
+        "height": 5210176,
+        "has_text_frame": false,
+        "has_table": true,
+        "table_data": [
+          [
+            "주",
+            "날짜",
+            "수업방식",
+            "수업내용"
+          ],
+          [
+            "8",
+            "10월 24일",
+            "대면",
+            "(성인학습자축제)"
+          ],
+          [
+            "9",
+            "10월 31일",
+            "대면",
+            "시장조사 및 분석방법\n- 시장조사 방법론\n- 팀별 SWOT 분석 및 발표"
+          ],
+          [
+            "10",
+            "11월 7일",
+            "대면",
+            "1. 제품 기획 및 컨셉 설계\n2. 제품 개발 및 프로토타입(Prototype) 제작\n- 프로토타입 설계\n- 제작 실습"
+          ],
+          [
+            "11",
+            "11월 14일",
+            "대면",
+            "마케팅 전략 수립\n- 마케팅 믹스 (4P) 전략\n- 판매 채널 구축 방안"
+          ],
+          [
+            "12",
+            "11월 21일",
+            "대면",
+            "중간발표 II\n- 프로젝트 진행상황 발표"
+          ],
+          [
+            "13",
+            "11월 28일",
+            "대면",
+            "현장학습 II(졸업여행)"
+          ],
+          [
+            "14",
+            "12월 5일",
+            "대면",
+            "최종발표 및 평가\n- 팀별 최종 결과물 발표\n- 프로젝트 성과물 검토 및 평가"
+          ],
+          [
+            "15",
+            "12월 12일",
+            "대면",
+            "기말고사(최종 결과물 보고서 제출)"
+          ]
+        ]
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "3강",
+      "2026 산림자원상품캡스톤디자인 강의 세부일정",
+      "[Table: 8 rows]",
+      "[Table: 9 rows]"
+    ]
+  },
+  {
+    "slide_number": 4,
+    "shape_count": 3,
+    "shapes": [
+      {
+        "shape_id": 10,
+        "name": "직사각형 9",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 2882900,
+        "top": 1250950,
+        "width": 9309100,
+        "height": 4656138,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "현장결과보고(장수 한우랑 사과 축제)",
+            "level": 0,
+            "runs": [
+              {
+                "text": "현장결과보고",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "장수 ",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "한우랑",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 사과 축제",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ")",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 자료공유",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 자료공유",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 결과보고 발표",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 결과보고 발표",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인",
+                "font_name": "Gwangyang Touching",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 캡스톤디자인 개념",
+            "level": 0,
+            "runs": [
+              {
+                "text": "- ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인 개념",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 캡스톤디자인 목적 및 수행",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 캡스톤디자인 목적 및 수행",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 캡스톤디자인 유형",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 캡스톤디자인 유형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 캡스톤디자인 사례",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 캡스톤디자인 사례",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "현장결과보고(장수 한우랑 사과 축제)\n- 자료공유\n- 결과보고 발표\n캡스톤디자인\n- 캡스톤디자인 개념\n- 캡스톤디자인 목적 및 수행\n- 캡스톤디자인 유형\n- 캡스톤디자인 사례"
+      },
+      {
+        "shape_id": 3,
+        "name": "직사각형 2",
+        "shape_type": "FREEFORM (5)",
+        "left": 0,
+        "top": 1250950,
+        "width": 4035425,
+        "height": 4656138,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 88.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 88.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 775729,
+        "top": 451672,
+        "width": 7678460,
+        "height": 998028,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": "Gwangyang Touching",
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": "Gwangyang Touching",
+                "font_size": null,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품캡스톤디자인"
+      }
+    ],
+    "texts": [
+      "현장결과보고(장수 한우랑 사과 축제)",
+      "- 자료공유",
+      "- 결과보고 발표",
+      "캡스톤디자인",
+      "- 캡스톤디자인 개념",
+      "- 캡스톤디자인 목적 및 수행",
+      "- 캡스톤디자인 유형",
+      "- 캡스톤디자인 사례",
+      "3강",
+      "산림자원상품캡스톤디자인"
+    ]
+  },
+  {
+    "slide_number": 5,
+    "shape_count": 8,
+    "shapes": [
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 20483,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 11058525,
+        "height": 4906963,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "1. 현장학습 결과공유",
+            "level": 0,
+            "runs": [
+              {
+                "text": "1. ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "현장학습 결과공유",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "1. 현장학습 결과공유"
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 20486,
+        "name": "그림 3",
+        "shape_type": "PICTURE (13)",
+        "left": 222250,
+        "top": 1879600,
+        "width": 4400550,
+        "height": 4637088,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 20487,
+        "name": "그림 9",
+        "shape_type": "PICTURE (13)",
+        "left": 8748713,
+        "top": 1581150,
+        "width": 3487737,
+        "height": 4935538,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 20488,
+        "name": "그림 10",
+        "shape_type": "PICTURE (13)",
+        "left": 4484688,
+        "top": 1862138,
+        "width": 4400550,
+        "height": 4637087,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "1. 현장학습 결과공유",
+      "3강"
+    ]
+  },
+  {
+    "slide_number": 6,
+    "shape_count": 9,
+    "shapes": [
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 7,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1464467,
+        "top": 1916301,
+        "width": 4300539,
+        "height": 1202578,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤 (Capstone)",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(Capstone)",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤 (Capstone)"
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 21510,
+        "name": "TextBox 7",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 9464675,
+        "top": 6348413,
+        "width": 2871788,
+        "height": 261937,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "Ⓒ김흥수((2021) 캡스톤디자인의 이해",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Ⓒ김흥수",
+                "font_name": null,
+                "font_size": 10.5,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "((2021)",
+                "font_name": null,
+                "font_size": 10.5,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 10.5,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인의",
+                "font_name": null,
+                "font_size": 10.5,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 이해",
+                "font_name": null,
+                "font_size": 10.5,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "Ⓒ김흥수((2021) 캡스톤디자인의 이해"
+      },
+      {
+        "shape_id": 21511,
+        "name": "그림 9",
+        "shape_type": "PICTURE (13)",
+        "left": 6710204,
+        "top": 2271078,
+        "width": 4300538,
+        "height": 3303587,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 21512,
+        "name": "그림 9",
+        "shape_type": "PICTURE (13)",
+        "left": 3170079,
+        "top": 3118879,
+        "width": 3540125,
+        "height": 2781111,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 3,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 4962525,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "2. 캡스톤 디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "2. ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "2. 캡스톤 디자인"
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "캡스톤 (Capstone)",
+      "3강",
+      "Ⓒ김흥수((2021) 캡스톤디자인의 이해",
+      "2. 캡스톤 디자인"
+    ]
+  },
+  {
+    "slide_number": 7,
+    "shape_count": 5,
+    "shapes": [
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 7,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 11058525,
+        "height": 5559425,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인(Capstone Design)이란?",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(Capstone Design)",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "이란",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "?",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 용어적 의미",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 용어적 의미",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 건축물에서 가장 마지막에 올려놓는 장식,최고의 업적 혹은 성취를 의미",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 건축물에서 가장 마지막에 올려놓는 장식",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ",",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "최고의 업적 혹은 성취를 의미",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 교육과정의 정의",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 교육과정의 정의",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 교육과정에서 학습한 내용을 통해 과제(프로젝트)수행 ➡︎ 문제 도출 ➡︎ 해결 과정 경험 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 교육과정에서 학습한 내용을 통해 과제",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "프로젝트",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ")",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "수행 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "➡︎ ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 16.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "문제 도출 ➡︎ 해결 과정 경험 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 학업적 성취 ➡︎ 현장 적용(실무능력과 창의성 등)인력 양성 교육과정",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 학업적 성취 ➡︎ 현장 적용",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "실무능력과 창의성 등",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ")",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "인력 양성 교육과정",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 도입 배경",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 도입 배경",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 2002년: '창의적 공학교육 프로그램 개발 및 확산사업'을 통해 공학인증제도 도입",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "2002",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "년",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": '",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "창의적 공학교육 프로그램 개발 및 확산사업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "'",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "을 통해 공학인증제도 도입",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 공학인증을 위한 필수 교육과정으로 '설계(Design)' 교과목 지정",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 공학인증을 위한 필수 교육과정으로 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "'",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "설계",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "Design)' ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "교과목 지정",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 2012년: 산학협력선도대학육성사업(LINC사업) 시작으로 모든 학문분야로 확산",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "2012",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "년",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "산학협력선도대학육성사업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "LINC",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "사업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ") ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "시작으로 모든 학문분야로 확산",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 3~4학년/ 졸업학기 대상 '종합설계' 과정에 해당",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "3~4",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "학년",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "/",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 졸업학기 대상 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "'",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "종합설계",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "' ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "과정에 해당",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인(Capstone Design)이란?\n- 용어적 의미\n◦ 건축물에서 가장 마지막에 올려놓는 장식,최고의 업적 혹은 성취를 의미\n- 교육과정의 정의\n◦ 교육과정에서 학습한 내용을 통해 과제(프로젝트)수행 ➡︎ 문제 도출 ➡︎ 해결 과정 경험 \n◦ 학업적 성취 ➡︎ 현장 적용(실무능력과 창의성 등)인력 양성 교육과정\n- 도입 배경\n◦ 2002년: '창의적 공학교육 프로그램 개발 및 확산사업'을 통해 공학인증제도 도입\n◦ 공학인증을 위한 필수 교육과정으로 '설계(Design)' 교과목 지정\n◦ 2012년: 산학협력선도대학육성사업(LINC사업) 시작으로 모든 학문분야로 확산\n◦ 3~4학년/ 졸업학기 대상 '종합설계' 과정에 해당"
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인(Capstone Design)이란?",
+      "- 용어적 의미",
+      "◦ 건축물에서 가장 마지막에 올려놓는 장식,최고의 업적 혹은 성취를 의미",
+      "- 교육과정의 정의",
+      "◦ 교육과정에서 학습한 내용을 통해 과제(프로젝트)수행 ➡︎ 문제 도출 ➡︎ 해결 과정 경험 ",
+      "◦ 학업적 성취 ➡︎ 현장 적용(실무능력과 창의성 등)인력 양성 교육과정",
+      "- 도입 배경",
+      "◦ 2002년: '창의적 공학교육 프로그램 개발 및 확산사업'을 통해 공학인증제도 도입",
+      "◦ 공학인증을 위한 필수 교육과정으로 '설계(Design)' 교과목 지정",
+      "◦ 2012년: 산학협력선도대학육성사업(LINC사업) 시작으로 모든 학문분야로 확산",
+      "◦ 3~4학년/ 졸업학기 대상 '종합설계' 과정에 해당",
+      "3강"
+    ]
+  },
+  {
+    "slide_number": 8,
+    "shape_count": 5,
+    "shapes": [
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 7,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 11058525,
+        "height": 5559425,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인의 목적?",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인의",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 목적",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "?",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 28.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 주요 목적 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 주요 목적 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 학업적 성취 활용: 1~2학년 동안 배운 전공교과목 및 이론을 실무에 적용",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 학업적 성취 활용",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": 1~2",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "학년 동안 배운 전공교과목 및 이론을 실무에 적용",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 산업체 수요 대응: 산업체(또는 사회)가 필요로 하는 과제를 해결",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 산업체 수요 대응",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "산업체",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "또는 사회",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ")",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "가 필요로 하는 과제를 해결",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 핵심 역량 개발: 창의성, 실무능력, 팀워크, 리더십 배양",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 핵심 역량 개발",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "창의성",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "실무능력",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "팀워크",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "리더십 배양",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 인재 양성: 산업현장 및 사회 수요에 부합하는 실무형 인재 육성",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 인재 양성",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "산업현장 및 사회 수요에 부합하는 실무형 인재 육성",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "- 성과 창출",
+            "level": 0,
+            "runs": [
+              {
+                "text": "-",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 성과 창출",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 학생의 지식이나 문제 해결방안을 구체적 결과물(유형·무형)로 구현",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 학생의 지식이나 문제 해결방안을 구체적 결과물",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "유형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "·",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "무형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ")",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "로 구현",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "◦ 취업·창업, 기술사업화 등 후속 프로그램과 연계하여 새로운 성과 창출 가능 ",
+            "level": 0,
+            "runs": [
+              {
+                "text": "◦ 취업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "·",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "창업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "기술사업화 등 후속 프로그램과 연계하여 새로운 성과 창출 가능 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인의 목적?\n- 주요 목적 \n◦ 학업적 성취 활용: 1~2학년 동안 배운 전공교과목 및 이론을 실무에 적용\n◦ 산업체 수요 대응: 산업체(또는 사회)가 필요로 하는 과제를 해결\n◦ 핵심 역량 개발: 창의성, 실무능력, 팀워크, 리더십 배양\n◦ 인재 양성: 산업현장 및 사회 수요에 부합하는 실무형 인재 육성\n- 성과 창출\n◦ 학생의 지식이나 문제 해결방안을 구체적 결과물(유형·무형)로 구현\n◦ 취업·창업, 기술사업화 등 후속 프로그램과 연계하여 새로운 성과 창출 가능 "
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인의 목적?",
+      "- 주요 목적 ",
+      "◦ 학업적 성취 활용: 1~2학년 동안 배운 전공교과목 및 이론을 실무에 적용",
+      "◦ 산업체 수요 대응: 산업체(또는 사회)가 필요로 하는 과제를 해결",
+      "◦ 핵심 역량 개발: 창의성, 실무능력, 팀워크, 리더십 배양",
+      "◦ 인재 양성: 산업현장 및 사회 수요에 부합하는 실무형 인재 육성",
+      "- 성과 창출",
+      "◦ 학생의 지식이나 문제 해결방안을 구체적 결과물(유형·무형)로 구현",
+      "◦ 취업·창업, 기술사업화 등 후속 프로그램과 연계하여 새로운 성과 창출 가능 ",
+      "3강"
+    ]
+  },
+  {
+    "slide_number": 9,
+    "shape_count": 12,
+    "shapes": [
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 24579,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 6276975,
+        "height": 750888,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품캡스톤디자인 유형",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품캡스톤디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 유형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품캡스톤디자인 유형"
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 24582,
+        "name": "TextBox 11",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 2522538,
+        "top": 2247900,
+        "width": 8818562,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "특징: 교과과정과 학회를 연계한 창의적 주제",
+            "level": 0,
+            "runs": [
+              {
+                "text": "특징: ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "교과과정과 학회를 연계",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "한",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "창의적 주제",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "내용: 학습자 전공과 관련된 창의적 문제를 설정하여 해결방법 도출",
+            "level": 0,
+            "runs": [
+              {
+                "text": "내용: 학습자 전공과 관련된 창의적 문제를 설정하여 해결방법 도출",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "목표: 독창적 아이디어와 창의성 개발",
+            "level": 0,
+            "runs": [
+              {
+                "text": "목표: 독창적 아이디어와 창의성 개발",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "특징: 교과과정과 학회를 연계한 창의적 주제\n내용: 학습자 전공과 관련된 창의적 문제를 설정하여 해결방법 도출\n목표: 독창적 아이디어와 창의성 개발"
+      },
+      {
+        "shape_id": 13,
+        "name": "육각형[H] 12",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 1322388,
+        "top": 2247900,
+        "width": 1673225,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "학생 \u000b창의형",
+            "level": 0,
+            "runs": [
+              {
+                "text": "학생 ",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "창의형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "학생 \u000b창의형"
+      },
+      {
+        "shape_id": 16,
+        "name": "TextBox 15",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 2522538,
+        "top": 3529013,
+        "width": 8818562,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "특징: 실제 산업 현장의 문제 해결",
+            "level": 0,
+            "runs": [
+              {
+                "text": "특징",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "실제 산업 현장의 문제 해결",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "내용: 기업이 해결하고자 하는 문제 또는 추진하고자 하는 과제를 주제로 설정",
+            "level": 0,
+            "runs": [
+              {
+                "text": "내용",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "기업이 해결하고자 하는 문제 또는 추진하고자 하는 과제를 주제로 설정",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "목표: 실무 적용 가능한 해결방안 도출",
+            "level": 0,
+            "runs": [
+              {
+                "text": "목표",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "실무 적용 가능한 해결방안 도출",
+                "font_name": "+mn-lt",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "특징: 실제 산업 현장의 문제 해결\n내용: 기업이 해결하고자 하는 문제 또는 추진하고자 하는 과제를 주제로 설정\n목표: 실무 적용 가능한 해결방안 도출"
+      },
+      {
+        "shape_id": 17,
+        "name": "육각형[H] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 1322388,
+        "top": 3529013,
+        "width": 1673225,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "기업\u000b연계형",
+            "level": 0,
+            "runs": [
+              {
+                "text": "기업",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "연계형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "기업\u000b연계형"
+      },
+      {
+        "shape_id": 24586,
+        "name": "TextBox 17",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 2522538,
+        "top": 4814888,
+        "width": 8818562,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "특징: 지역의 발전을 위한 공익 프로젝트",
+            "level": 0,
+            "runs": [
+              {
+                "text": "특징",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "지역의 발전을 위한 공익 프로젝트",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "내용: 지역의 문제를 다양한 시각에서 접근하여 문제도출, 소통 능력 향상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "내용",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "지역의 문제를 다양한 시각에서 접근하여 문제도출",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "소통 능력 향상",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          },
+          {
+            "text": "목표: 다양한 학문분야 간 창의적 융합을 통한 지역의 공익을 위한 문제해결",
+            "level": 0,
+            "runs": [
+              {
+                "text": "목표",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ": ",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "다양한 학문분야 간 창의적 융합을 통한 지역의 공익을 위한 문제해결",
+                "font_name": null,
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "특징: 지역의 발전을 위한 공익 프로젝트\n내용: 지역의 문제를 다양한 시각에서 접근하여 문제도출, 소통 능력 향상\n목표: 다양한 학문분야 간 창의적 융합을 통한 지역의 공익을 위한 문제해결"
+      },
+      {
+        "shape_id": 19,
+        "name": "육각형[H] 18",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 1322388,
+        "top": 4832350,
+        "width": 1673225,
+        "height": 1171575,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "지역발전\u000b공익형",
+            "level": 0,
+            "runs": [
+              {
+                "text": "지역발전",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": "공익형",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": 20.0,
+                "bold": true,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "지역발전\u000b공익형"
+      },
+      {
+        "shape_id": 24588,
+        "name": "TextBox 3",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 5842000,
+        "top": 6237288,
+        "width": 5480988,
+        "height": 400110,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "*김흥수(2021). 캡스톤디자인의 이해, 서울; 박영사   *한양대학교(2020). 2020 교수법 가이드북 Vol 11",
+            "level": 0,
+            "runs": [
+              {
+                "text": "*",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "김흥수",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(2021). ",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인의",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 이해",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ",",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 서울",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ";",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "박영사",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "   ",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "*",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "한양대학교",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "(2020). 2020",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 교수법 가이드북 ",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "Vol 11",
+                "font_name": null,
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "*김흥수(2021). 캡스톤디자인의 이해, 서울; 박영사   *한양대학교(2020). 2020 교수법 가이드북 Vol 11\n"
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "산림자원상품캡스톤디자인 유형",
+      "3강",
+      "특징: 교과과정과 학회를 연계한 창의적 주제",
+      "내용: 학습자 전공과 관련된 창의적 문제를 설정하여 해결방법 도출",
+      "목표: 독창적 아이디어와 창의성 개발",
+      "학생 \u000b창의형",
+      "특징: 실제 산업 현장의 문제 해결",
+      "내용: 기업이 해결하고자 하는 문제 또는 추진하고자 하는 과제를 주제로 설정",
+      "목표: 실무 적용 가능한 해결방안 도출",
+      "기업\u000b연계형",
+      "특징: 지역의 발전을 위한 공익 프로젝트",
+      "내용: 지역의 문제를 다양한 시각에서 접근하여 문제도출, 소통 능력 향상",
+      "목표: 다양한 학문분야 간 창의적 융합을 통한 지역의 공익을 위한 문제해결",
+      "지역발전\u000b공익형",
+      "*김흥수(2021). 캡스톤디자인의 이해, 서울; 박영사   *한양대학교(2020). 2020 교수법 가이드북 Vol 11"
+    ]
+  },
+  {
+    "slide_number": 10,
+    "shape_count": 8,
+    "shapes": [
+      {
+        "shape_id": 25601,
+        "name": "그룹 2",
+        "shape_type": "GROUP (6)",
+        "left": 714375,
+        "top": 2568575,
+        "width": 11164888,
+        "height": 2643188,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 6,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 5,
+        "name": "팔각형[O] 4",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 25606,
+        "name": "TextBox 25",
+        "shape_type": "FREEFORM (5)",
+        "left": 8177213,
+        "top": 3649663,
+        "width": 2646362,
+        "height": 403225,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "멘토링 및 피드백",
+            "level": 0,
+            "runs": [
+              {
+                "text": "멘토링 및 피드백",
+                "font_name": "Gwangyang Touching",
+                "font_size": 18.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "멘토링 및 피드백"
+      },
+      {
+        "shape_id": 25607,
+        "name": "TextBox 26",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 4883150,
+        "top": 6221413,
+        "width": 6498895,
+        "height": 246221,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "*윤석범, 장은영. (2014). 한국다학제간 캡스톤디자인에마이크로콘트롤러 보드의 적용. 디지털융복합연구, 12(2), 531-537.",
+            "level": 0,
+            "runs": [
+              {
+                "text": "*",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "윤석범",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", ",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "장은영",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ". (2014). ",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "한국다학제간",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인에마이크로콘트롤러",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " 보드의 적용",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ". ",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "디지털융복합연구",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": ", 12(2), 531-537.",
+                "font_name": "GamtanRoad Dotum Regular",
+                "font_size": 10.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "*윤석범, 장은영. (2014). 한국다학제간 캡스톤디자인에마이크로콘트롤러 보드의 적용. 디지털융복합연구, 12(2), 531-537."
+      },
+      {
+        "shape_id": 25608,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133475,
+        "top": 1298575,
+        "width": 7043738,
+        "height": 750888,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품캡스톤디자인 운영방안",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": true,
+                "italic": null
+              },
+              {
+                "text": " 운영방안",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품캡스톤디자인 운영방안"
+      }
+    ],
+    "texts": [
+      "산림자원상품 캡스톤디자인",
+      "3강",
+      "멘토링 및 피드백",
+      "*윤석범, 장은영. (2014). 한국다학제간 캡스톤디자인에마이크로콘트롤러 보드의 적용. 디지털융복합연구, 12(2), 531-537.",
+      "산림자원상품캡스톤디자인 운영방안"
+    ]
+  },
+  {
+    "slide_number": 11,
+    "shape_count": 12,
+    "shapes": [
+      {
+        "shape_id": 16,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 17,
+        "name": "팔각형[O] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 26629,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133476,
+        "top": 1298575,
+        "width": 3798888,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인 우수상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인 우수상",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인 우수상"
+      },
+      {
+        "shape_id": 10,
+        "name": "그림 9",
+        "shape_type": "PICTURE (13)",
+        "left": 4964825,
+        "top": 1220946,
+        "width": 4845050,
+        "height": 862013,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 3,
+        "name": "그림 2",
+        "shape_type": "PICTURE (13)",
+        "left": 589040,
+        "top": 1931353,
+        "width": 5806441,
+        "height": 2027873,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 6,
+        "name": "그림 5",
+        "shape_type": "PICTURE (13)",
+        "left": 2125345,
+        "top": 1857376,
+        "width": 5614037,
+        "height": 4937760,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 15,
+        "name": "그림 14",
+        "shape_type": "PICTURE (13)",
+        "left": 319247,
+        "top": 847725,
+        "width": 5814378,
+        "height": 5936298,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 18,
+        "name": "그림 17",
+        "shape_type": "PICTURE (13)",
+        "left": 6029085,
+        "top": 918210,
+        "width": 5613561,
+        "height": 5936298,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 19,
+        "name": "그림 18",
+        "shape_type": "PICTURE (13)",
+        "left": 6133625,
+        "top": 2719389,
+        "width": 5613561,
+        "height": 3885883,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 20,
+        "name": "그림 19",
+        "shape_type": "PICTURE (13)",
+        "left": 2417644,
+        "top": 1240393,
+        "width": 8528684,
+        "height": 5240814,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "3강",
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인 우수상"
+    ]
+  },
+  {
+    "slide_number": 12,
+    "shape_count": 15,
+    "shapes": [
+      {
+        "shape_id": 16,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 17,
+        "name": "팔각형[O] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 26629,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133476,
+        "top": 1298575,
+        "width": 3798888,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인 우수상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인 우수상",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인 우수상"
+      },
+      {
+        "shape_id": 12,
+        "name": "그림 11",
+        "shape_type": "PICTURE (13)",
+        "left": 4837113,
+        "top": 1462087,
+        "width": 6221411,
+        "height": 1282198,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 3,
+        "name": "그림 2",
+        "shape_type": "PICTURE (13)",
+        "left": 222250,
+        "top": 2160587,
+        "width": 10079990,
+        "height": 3747717,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 27,
+        "name": "그룹 26",
+        "shape_type": "GROUP (6)",
+        "left": 0,
+        "top": 949696,
+        "width": 11823700,
+        "height": 6029219,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 28,
+        "name": "그림 27",
+        "shape_type": "PICTURE (13)",
+        "left": 222250,
+        "top": 2467122,
+        "width": 11376208,
+        "height": 4390877,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 30,
+        "name": "그림 29",
+        "shape_type": "PICTURE (13)",
+        "left": 149042,
+        "top": 2069779,
+        "width": 11743071,
+        "height": 4666301,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 32,
+        "name": "그림 31",
+        "shape_type": "PICTURE (13)",
+        "left": 199307,
+        "top": 2056212,
+        "width": 11889746,
+        "height": 4515327,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 36,
+        "name": "그룹 35",
+        "shape_type": "GROUP (6)",
+        "left": 253409,
+        "top": 1844185,
+        "width": 11858587,
+        "height": 4907134,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 40,
+        "name": "그룹 39",
+        "shape_type": "GROUP (6)",
+        "left": 255020,
+        "top": 2401325,
+        "width": 11710301,
+        "height": 4476509,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 46,
+        "name": "그룹 45",
+        "shape_type": "GROUP (6)",
+        "left": 487602,
+        "top": 2217034,
+        "width": 11404511,
+        "height": 4634252,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 48,
+        "name": "그림 47",
+        "shape_type": "PICTURE (13)",
+        "left": 0,
+        "top": 947303,
+        "width": 12194186,
+        "height": 5903983,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "3강",
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인 우수상"
+    ]
+  },
+  {
+    "slide_number": 13,
+    "shape_count": 13,
+    "shapes": [
+      {
+        "shape_id": 16,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 17,
+        "name": "팔각형[O] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 26629,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133476,
+        "top": 1298575,
+        "width": 3798888,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인 우수상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인 우수상",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인 우수상"
+      },
+      {
+        "shape_id": 18,
+        "name": "그림 17",
+        "shape_type": "PICTURE (13)",
+        "left": 4976940,
+        "top": 1555296,
+        "width": 4323931,
+        "height": 3747407,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 22,
+        "name": "그룹 21",
+        "shape_type": "GROUP (6)",
+        "left": 1103207,
+        "top": 1307778,
+        "width": 10472718,
+        "height": 4260851,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 29,
+        "name": "그룹 28",
+        "shape_type": "GROUP (6)",
+        "left": 616075,
+        "top": 958692,
+        "width": 11402953,
+        "height": 5873907,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 37,
+        "name": "그룹 36",
+        "shape_type": "GROUP (6)",
+        "left": 322045,
+        "top": 939262,
+        "width": 11691746,
+        "height": 5918738,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 44,
+        "name": "그룹 43",
+        "shape_type": "GROUP (6)",
+        "left": 366620,
+        "top": 1089675,
+        "width": 11778501,
+        "height": 5774411,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 48,
+        "name": "그룹 47",
+        "shape_type": "GROUP (6)",
+        "left": 227906,
+        "top": 997430,
+        "width": 11661639,
+        "height": 5860570,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 50,
+        "name": "그림 49",
+        "shape_type": "PICTURE (13)",
+        "left": 245489,
+        "top": 1342560,
+        "width": 11549089,
+        "height": 3949043,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 53,
+        "name": "그림 52",
+        "shape_type": "PICTURE (13)",
+        "left": 224375,
+        "top": 2081242,
+        "width": 11920746,
+        "height": 3970384,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "3강",
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인 우수상"
+    ]
+  },
+  {
+    "slide_number": 14,
+    "shape_count": 8,
+    "shapes": [
+      {
+        "shape_id": 16,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 17,
+        "name": "팔각형[O] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 26629,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133476,
+        "top": 1298575,
+        "width": 3798888,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인 우수상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인 우수상",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인 우수상"
+      },
+      {
+        "shape_id": 6,
+        "name": "그림 5",
+        "shape_type": "PICTURE (13)",
+        "left": 1761388,
+        "top": 4391276,
+        "width": 2051036,
+        "height": 2139365,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 8,
+        "name": "그림 7",
+        "shape_type": "PICTURE (13)",
+        "left": 4301699,
+        "top": 2641599,
+        "width": 2609752,
+        "height": 3889042,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 10,
+        "name": "그림 9",
+        "shape_type": "PICTURE (13)",
+        "left": 7178951,
+        "top": 0,
+        "width": 5013049,
+        "height": 6858000,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "3강",
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인 우수상"
+    ]
+  },
+  {
+    "slide_number": 15,
+    "shape_count": 7,
+    "shapes": [
+      {
+        "shape_id": 16,
+        "name": "직사각형 5",
+        "shape_type": "FREEFORM (5)",
+        "left": 4484688,
+        "top": -14288,
+        "width": 7707312,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [],
+        "raw_text": ""
+      },
+      {
+        "shape_id": 17,
+        "name": "팔각형[O] 16",
+        "shape_type": "AUTO_SHAPE (1)",
+        "left": 10993438,
+        "top": -11113,
+        "width": 1198562,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "3강",
+            "level": 0,
+            "runs": [
+              {
+                "text": "3",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "강",
+                "font_name": null,
+                "font_size": 40.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "3강"
+      },
+      {
+        "shape_id": 2,
+        "name": "제목 1",
+        "shape_type": "PLACEHOLDER (14)",
+        "left": 222250,
+        "top": 0,
+        "width": 5162550,
+        "height": 998538,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "산림자원상품 캡스톤디자인",
+            "level": 0,
+            "runs": [
+              {
+                "text": "산림자원상품",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": " ",
+                "font_name": null,
+                "font_size": 24.0,
+                "bold": null,
+                "italic": null
+              },
+              {
+                "text": "캡스톤디자인",
+                "font_name": null,
+                "font_size": 32.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "산림자원상품 캡스톤디자인"
+      },
+      {
+        "shape_id": 9,
+        "name": "직선 연결선[R] 8",
+        "shape_type": "LINE (9)",
+        "left": 0,
+        "top": 862013,
+        "width": 4803775,
+        "height": 0,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 26629,
+        "name": "제목 1",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 1133476,
+        "top": 1298575,
+        "width": 3798888,
+        "height": 862013,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "캡스톤디자인 장려상",
+            "level": 0,
+            "runs": [
+              {
+                "text": "캡스톤디자인 장려상",
+                "font_name": "GamtanRoad Dotum Bold",
+                "font_size": null,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "캡스톤디자인 장려상"
+      },
+      {
+        "shape_id": 13,
+        "name": "그림 12",
+        "shape_type": "PICTURE (13)",
+        "left": 5107077,
+        "top": 1530182,
+        "width": 4305122,
+        "height": 4397375,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 15,
+        "name": "정영미-2025년 11월 18일",
+        "shape_type": "MEDIA (16)",
+        "left": 1662589,
+        "top": 1165811,
+        "width": 9069580,
+        "height": 5101638,
+        "has_text_frame": false,
+        "has_table": false
+      }
+    ],
+    "texts": [
+      "3강",
+      "산림자원상품 캡스톤디자인",
+      "캡스톤디자인 장려상"
+    ]
+  },
+  {
+    "slide_number": 16,
+    "shape_count": 2,
+    "shapes": [
+      {
+        "shape_id": 50177,
+        "name": "코스모스",
+        "shape_type": "PICTURE (13)",
+        "left": 0,
+        "top": 0,
+        "width": 12192000,
+        "height": 6858000,
+        "has_text_frame": false,
+        "has_table": false
+      },
+      {
+        "shape_id": 3,
+        "name": "TextBox 2",
+        "shape_type": "TEXT_BOX (17)",
+        "left": 6372225,
+        "top": 1257300,
+        "width": 5554663,
+        "height": 1703388,
+        "has_text_frame": true,
+        "has_table": false,
+        "paragraphs": [
+          {
+            "text": "Thank you~",
+            "level": 0,
+            "runs": [
+              {
+                "text": "Thank you~",
+                "font_name": "Zapfino",
+                "font_size": 48.0,
+                "bold": null,
+                "italic": null
+              }
+            ]
+          }
+        ],
+        "raw_text": "Thank you~"
+      }
+    ],
+    "texts": [
+      "Thank you~"
+    ]
+  }
+]
